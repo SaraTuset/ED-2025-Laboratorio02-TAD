@@ -1,4 +1,4 @@
-{ tad_ej2_pagar.pas - Programa Principal }
+ { tad_ej2_pagar.pas - Programa Principal }
 program tad_ej2_pagar;
 
 uses
